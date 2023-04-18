@@ -1,10 +1,8 @@
 import './App.css';
-
+import Navbar from './Navbar';
 function App() {
   return (
-    <>
-    <h1>Cock</h1>
-    </>
+    <Navbar/>
   );
 }
 
